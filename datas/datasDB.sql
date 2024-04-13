@@ -1,3 +1,5 @@
+USE `belgium_locations`;
+
 insert into locations(`id`, `name`, `img_url`, `adresse`, `long`, `lat`)
 values(null, "Les Aventures de Tintin",
 "https://www.parcoursbd.brussels/wp-content/uploads/2021/08/aventures_tintin.jpg",
